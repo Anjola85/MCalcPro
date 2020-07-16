@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--    Student Name: Muhammed Adeyemi, 216766644-->
+<!--     This Lab was done individually-->
+<!--    https://youtu.be/wG4nTIpqvpo-->
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -51,7 +54,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
-        android:onClick="onClick"
+        android:onClick="btnClicked"
         android:text="@string/analyze"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
